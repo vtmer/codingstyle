@@ -1,0 +1,10 @@
+# Coding Style
+
+
+## 检测
+
+假如你用 vim，可以安装 [syntastic](https://github.com/scrooloose/syntastic)，再
+加上相关 **lint** 的组件就可以在每次保存的时候自动检查代码了。
+
+
+ST2 的玩家可以试试[这个](https://github.com/SublimeLinter/SublimeLinter)。
